@@ -1,0 +1,1 @@
+Caribbean_Airlines CA002 Cheddi_Jagan_International_Airport 27 06 2023 22 15 Miami_International_Airport 28 06 2023 02 15 Boeing_737 04 00 On-Time 100 700 None 2_bags_of_23kg_each A4

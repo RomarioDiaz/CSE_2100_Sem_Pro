@@ -1,0 +1,1 @@
+Caribbean_Airlines CA001 Cheddi_Jagan_International_Airport 26 06 2023 10 45 Grantley_Adams_International_Airport 26 06 2023 12 15 Boeing_737 1 30 On-Time 100 300 None 2_bags_of_23kg_each A2
